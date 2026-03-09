@@ -1,0 +1,5 @@
+# push 03/09/2026 00:09:10
+name = 'landing-page'
+main = 'worker.js'
+compatibility_date = '2026-03-09'
+workers_dev = true
